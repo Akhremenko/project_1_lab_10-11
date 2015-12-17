@@ -1,0 +1,15 @@
+﻿Сборка начата 16.12.2015 22:31:22.
+     1>Проект "E:\work\2 курс, 1 семестр\ООП\ЛР №10-11\proekt_1\proekt_1\proekt_1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\proekt_1.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt proekt_1.cpp
+         proekt_1.cpp
+     1>e:\work\2 курс, 1 семестр\ооп\лр №10-11\proekt_1\proekt_1\proekt_1.cpp(3): warning C4627: #include <vector>: пропущен при поиске использования предкомпилированного заголовка
+         e:\work\2 курс, 1 семестр\ооп\лр №10-11\proekt_1\proekt_1\proekt_1.cpp(3): note: Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+     1>e:\work\2 курс, 1 семестр\ооп\лр №10-11\proekt_1\proekt_1\proekt_1.cpp(4): warning C4627: #include <iostream>: пропущен при поиске использования предкомпилированного заголовка
+         e:\work\2 курс, 1 семестр\ооп\лр №10-11\proekt_1\proekt_1\proekt_1.cpp(4): note: Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+     1>e:\work\2 курс, 1 семестр\ооп\лр №10-11\proekt_1\proekt_1\proekt_1.cpp(71): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+     1>Сборка проекта "E:\work\2 курс, 1 семестр\ООП\ЛР №10-11\proekt_1\proekt_1\proekt_1.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:01.20
